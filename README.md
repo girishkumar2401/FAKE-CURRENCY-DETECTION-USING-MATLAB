@@ -52,11 +52,5 @@ This project aims to detect counterfeit currency using image processing techniqu
 
 
 
-## License
-This project is licensed under the MIT License.
 
-## Acknowledgments
-- MATLAB Documentation
-- Image Processing Toolbox Community
-- Open-source datasets for currency analysis
 
